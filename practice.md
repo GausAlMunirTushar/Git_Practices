@@ -18,3 +18,10 @@ git add css/index.css
 ```
 
 # Practing End
+
+```
+h1{
+    color: red;
+    font-size: 20px;
+    background-color: green;
+}
